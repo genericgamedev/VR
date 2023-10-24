@@ -1,5 +1,5 @@
 # Github Repository for the Rochester Institute of Technology VR/AR Club!
 
-Projects:
+## Projects:
 
 Hardlight Haptic Vest
