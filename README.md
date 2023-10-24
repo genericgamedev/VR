@@ -1,1 +1,1 @@
-# VR
+# VR Club
